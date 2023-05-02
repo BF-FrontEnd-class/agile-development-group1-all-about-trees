@@ -4,7 +4,8 @@ Some boundaries around our project.
 
 ## External
 
-- Project deadline (2 days)
+"- Project deadline (2 days)"
+
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -14,7 +15,8 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
-- Individual skill levels
+"- Individual skill levels"
+
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
