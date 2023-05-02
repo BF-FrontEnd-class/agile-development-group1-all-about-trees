@@ -1,10 +1,10 @@
-# Name of project
+# All About Trees
 
-> A longer description
+> A simple website about trees and some scientific facts about them.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
