@@ -11,7 +11,7 @@
 >
 > - blue (what project should have)
 >
-> - green (what project must have)
+> - green (what project could have)
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
