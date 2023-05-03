@@ -8,19 +8,20 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       | How  | The topic of discussion |
+| --------- | :--: | ----------------------- |
+| Tuesday   | Zoom | All about trees         |
+| Wednesday | Zoom | All about trees         |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: on demand
+- **Pull Requests**: on demand
+- **GitHub Discussions**: on demand
+- **Slack**: all the working time
+- **Video Calls**: all the working time
 
 ---
 
@@ -28,17 +29,21 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day       | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| --------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| _Vlad_    |   -    | 9 - 17  |  9 - 17   |    -     |   -    |    -     |   -    |
+| _Iryna_   |   -    | 9 - 17  |  9 - 17   |    -     |   -    |    -     |   -    |
+| _Ervin_   |   -    | 9 - 17  |  9 - 17   |    -     |   -    |    -     |   -    |
+| _Preethi_ |   -    | 9 - 17  |  9 - 17   |    -     |   -    |    -     |   -    |
+| _Rahwa_   |   -    | 9 - 17  |  9 - 17   |    -     |   -    |    -     |   -    |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Vlad: _7h_;
+- Iryna: _7h_;
+- Ervin: _7h_;
+- Preethi: _7h_;
+- Rahwa: _7h_;
 
 ## Asking for Help
 
