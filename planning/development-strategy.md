@@ -34,7 +34,7 @@ Simple website about trees
 
 ---
 
-### Logo
+## Logo
 
 > As a user I want to see the logo of the website. This feature developed on a
 > branch `logo`
@@ -53,7 +53,7 @@ Simple website about trees
 - make `width` and `height`
 - make `logo animation` to image `bouncy-img`
 
-### Navigation bar
+## Navigation bar
 
 > As a user I want to see the navigation bar to access different parts of the
 > website. This feature developed on a branch `navigation`
