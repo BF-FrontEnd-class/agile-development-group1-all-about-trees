@@ -9,7 +9,23 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
+- [ ] As a user I want to see the title of the page
+  - there is a title at the top of the page
+- [ ] As a user I want to see the logo of the website
+  - There are two loges at the top of the pages
+- [ ] As a user I want to see the navbar to access different part of the website
+  - there is navigation bar under the title
+- [ ] As a user, I want to see the content in the website
+  - about trees
+  - images of the trees
+- [ ] As a user I want to see the more links for the another contents about
+      trees
+  - links for another website containing related information
+    - wikipedia, youtube, ets.
+- [ ] As a user, I want to see the links for the social media
+
+  - reading more information about website's owner
+
   - _Given [context] when [a specific action is performed] then [a set of
     consequences should occur]_
 
