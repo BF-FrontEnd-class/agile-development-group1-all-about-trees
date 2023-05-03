@@ -27,6 +27,8 @@
     "envirinmental",
     "initives"
  ],
+    "envirinmental"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
