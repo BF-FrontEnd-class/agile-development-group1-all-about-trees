@@ -26,12 +26,11 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![smiling tree](./planning/Screenshot tree.jpg)
 
 ## Technologies
 
-- Node 14.16.0
-- VSC code
+- VS code
 - HTML5
 - CSS3
 
@@ -56,14 +55,17 @@
 
 List of features ready and Todo for future development
 
--
--
--
+- title
+- navigation bar
+- main content
+- links
+- images
 
 To-do list:
 
--
--
+- logo
+- footer
+- contact information
 
 ## Status
 
@@ -75,11 +77,17 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-- VladyslavHornitskyi
-- ervinMamutov
-- PreethiTapati
-- IrynaSobetska
-- Rahwakinfe
+Name
+
+1. VladyslavHornitskyi
+
+2. ervinMamutov
+
+3. PreethiTapati
+
+4. IrynaSobetska
+
+5. Rahwakinfe
 
 ## Instructions for use
 
