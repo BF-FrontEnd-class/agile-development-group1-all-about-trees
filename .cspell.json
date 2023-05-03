@@ -17,16 +17,8 @@
     "Todos",
     "Iryna",
     "Preethi",
-    "Rahwa",
-    "visualisation",
-    "exalidraw",
-    "incomolete",
-    "woshes",
-    "initives",
-    "diffetent",
-    "envirinmental",
-    "initives"
- ],
+    "Rahwa"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .aside-info {
   width: 40%;
   padding-left: 0.5rem;
@@ -9,6 +10,14 @@
 
 .aside-text {
   font-family: monospace;
+=======
+body {
+  background-color: white;
+}
+
+.interesting-things {
+  list-style-type: square;
+>>>>>>> 22f2dff78086b5b7164165d598fa0367122d8ef4
 }
 
 .centered-items {
@@ -17,10 +26,6 @@
   justify-content: center;
   padding-top: 2%;
   padding-bottom: 2%;
-}
-
-body {
-  background-color: white;
 }
 
 .bottom-divider {
@@ -34,4 +39,13 @@ body {
   justify-content: space-around;
   padding-top: 2%;
   padding-bottom: 2%;
+}
+
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
 }
