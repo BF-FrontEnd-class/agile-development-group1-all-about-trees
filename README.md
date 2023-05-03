@@ -22,11 +22,11 @@
 
 ## General info
 
-> A short description
+> A simple website about trees the objective is to learn project planning.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+! (./planning\Screenshot tree.jpg)
 
 ## Technologies
 
@@ -38,14 +38,10 @@
 
 ## Setup
 
-- `npm run start`
+- 'clone the repo'
+- 'npm-install'
 
 ## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
 
 ## Features
 
@@ -127,3 +123,4 @@ locally.
   - "_Do not allow bypassing the above settings_"
 
 </details>
+```
