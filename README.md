@@ -6,12 +6,10 @@
 
 - [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Status](#status)
+  - [status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
@@ -19,32 +17,32 @@
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
-
-> A short description
-
-## Screenshots
-
-![image tree](./planning/screenshot-tree.jpg)
+![smiling tree](./planning/Screenshot tree.jpg)
 
 ## Technologies
 
-- VSC code
-- HTML
-- CSS
-- ...
+- VS code
+- HTML5
+- CSS3
 
 ## Setup
 
-- `npm run start`
+- `clone the repo`
+- `npm install`
 
 ## Code Examples
 
-```html
-<img class="bouncy-img" src="./assets/happy-tree.jpg" alt="a smiling tree" />
+```<!-- Navigation links  -->
+<nav class="bottom-divider">
+  <div class="spaced-items">
+    <a href="#summary-info">intro</a>
+    <a href="#main-info">content</a>
+    <a href="#extra-info">extras</a>
+  </div>
+</nav>
 ```
 
-## Status
+## status
 
 Project is: _in progress_
 
@@ -54,10 +52,17 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+Name
 
-1.VladyslavHornitskyi 2.IrynaSobetska 3.ervinMamutov 4.Rahwakinfe
-5.PreethiTapati
+1. VladyslavHornitskyi
+
+2. ervinMamutov
+
+3. PreethiTapati
+
+4. IrynaSobetska
+
+5. Rahwakinfe
 
 ## Instructions for use
 
