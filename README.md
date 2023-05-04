@@ -22,30 +22,24 @@
 
 ## General info
 
-> A short description
+> A simple website about trees the objective is to learn project planning.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+! (./planning\screenshot-tree.jpg)
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- 'clone the repo'
+- 'npm-install'
 
 ## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
 
 ## Features
 
@@ -70,7 +64,13 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+[Name]
+
+1. IrynaSobetska
+2. ervinMamutov
+3. Rahwakinfe
+4. PreethiTapati
+5. VladyslavHornitskyi
 
 ## Instructions for use
 
@@ -127,3 +127,4 @@ locally.
   - "_Do not allow bypassing the above settings_"
 
 </details>
+```

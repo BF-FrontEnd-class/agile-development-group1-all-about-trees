@@ -26,6 +26,7 @@
     green spaces in the city. He has tried searching online, but has come across
     outdated or incomplet resources.
 - **Scenario 1**:
+
   - John discovers a website dedicated to the trees and green spaces. He finds
     useful resources.
 
@@ -51,7 +52,6 @@
   website's community forum, sharing his experiences and learning from other.
   John feels excited and inspired to explore the city's natural beauty and
   become involved in local environmental initives.
-
 
 ---
 

@@ -6,6 +6,19 @@ body {
   list-style-type: square;
 }
 
+.top-divider {
+  border-style: solid none none none;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 .centered-items {
   display: flex;
   flex-direction: row;
@@ -18,10 +31,7 @@ body {
   border-style: none none solid none;
 }
 
-.fascinating-words {
-  font-family: fantasy;
-}
-
+/* stylelint-disable-next-line no-duplicate-selectors */
 .spaced-items {
   display: flex;
   flex-direction: row;
