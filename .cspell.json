@@ -24,14 +24,9 @@
     "woshes",
     "initives",
     "diffetent",
-<<<<<<<<< Temporary merge branch 1
     "envirinmental"
   ],
-=========
-    "envirinmental",
-    "initives"
- ],
->>>>>>>>> Temporary merge branch 2
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
