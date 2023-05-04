@@ -24,7 +24,6 @@
 
 > A simple website about trees the objective is to learn project planning
 
-## Screenshots
 
 ![smiling tree](./planning/Screenshot tree.jpg)
 
@@ -51,21 +50,7 @@
 </nav>
 ```
 
-## Features
 
-List of features ready and Todo for future development
-
-- title
-- navigation bar
-- main content
-- links
-- images
-
-To-do list:
-
-- logo
-- footer
-- contact information
 
 ## Status
 
@@ -76,6 +61,7 @@ Project is: _in progress_
 Project by freeCodeCamp.org
 
 ## Contact
+
 
 Name
 
@@ -88,6 +74,7 @@ Name
 4. IrynaSobetska
 
 5. Rahwakinfe
+
 
 ## Instructions for use
 
@@ -144,3 +131,4 @@ locally.
   - "_Do not allow bypassing the above settings_"
 
 </details>
+```
