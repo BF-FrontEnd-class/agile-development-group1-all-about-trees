@@ -97,5 +97,16 @@
   //-------- Markdown configuration --------
 
   // Enable path suggestoins while writing links in markdown files
-  "markdown.suggest.paths.enabled": true
+  "markdown.suggest.paths.enabled": true,
+  "cSpell.words": [
+    "Hornitskyi",
+    "incomolete",
+    "Iryna",
+    "Mamutov",
+    "Nepo",
+    "Rahwakinfe",
+    "Sobetska",
+    "Tapati",
+    "Vladyslav"
+  ]
 }

@@ -6,13 +6,10 @@
 
 - [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
+  - [status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
@@ -20,41 +17,32 @@
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
-
-> A simple website about trees the objective is to learn project planning.
-
-## Screenshots
-
-! (./planning\screenshot-tree.jpg)
+![smiling tree](./planning/Screenshot tree.jpg)
 
 ## Technologies
 
-- VSC code
-- HTML
-- CSS
+- VS code
+- HTML5
+- CSS3
 
 ## Setup
 
-- 'clone the repo'
-- 'npm-install'
+- `clone the repo`
+- `npm install`
 
 ## Code Examples
 
-## Features
+```<!-- Navigation links  -->
+<nav class="bottom-divider">
+  <div class="spaced-items">
+    <a href="#summary-info">intro</a>
+    <a href="#main-info">content</a>
+    <a href="#extra-info">extras</a>
+  </div>
+</nav>
+```
 
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
-## Status
+## status
 
 Project is: _in progress_
 
@@ -64,13 +52,17 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-[Name]
+Name
 
-1. IrynaSobetska
+1. VladyslavHornitskyi
+
 2. ervinMamutov
-3. Rahwakinfe
-4. PreethiTapati
-5. VladyslavHornitskyi
+
+3. PreethiTapati
+
+4. IrynaSobetska
+
+5. Rahwakinfe
 
 ## Instructions for use
 
