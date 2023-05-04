@@ -64,13 +64,13 @@ Project by freeCodeCamp.org
 
 ## Contact
 
- [Name]
+[Name]
 
- 1. IrynaSobetska
- 2. ervinMamutov
- 3. Rahwakinfe
- 4. PreethiTapati
- 5. VladyslavHornitskyi
+1. IrynaSobetska
+2. ervinMamutov
+3. Rahwakinfe
+4. PreethiTapati
+5. VladyslavHornitskyi
 
 ## Instructions for use
 
