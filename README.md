@@ -25,6 +25,7 @@
 > A simple website about trees the objective is to learn project planning.
 
 ## Screenshots
+
 ! (./planning\screenshot-tree.jpg)
 
 ## Technologies
