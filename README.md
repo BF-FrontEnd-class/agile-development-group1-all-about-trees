@@ -11,7 +11,6 @@
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
@@ -22,50 +21,28 @@
 
 ## General info
 
-> A simple website about trees the objective is to learn project planning
+> A short description
 
 ## Screenshots
 
-![smiling tree](./planning/screenshot-tree.jpg)
+![image tree](./planning/screenshot-tree.jpg)
 
 ## Technologies
 
-- VS code
-- HTML5
-- CSS3
+- VSC code
+- HTML
+- CSS
+- ...
 
 ## Setup
 
-- `clone the repo`
-- `npm install`
+- `npm run start`
 
 ## Code Examples
 
-```<!-- Navigation links  -->
-<nav class="bottom-divider">
-  <div class="spaced-items">
-    <a href="#summary-info">intro</a>
-    <a href="#main-info">content</a>
-    <a href="#extra-info">extras</a>
-  </div>
-</nav>
+```html
+<img class="bouncy-img" src="./assets/happy-tree.jpg" alt="a smiling tree" />
 ```
-
-## Features
-
-List of features ready and Todo for future development
-
-- title
-- navigation bar
-- main content
-- links
-- images
-
-To-do list:
-
-- logo
-- footer
-- contact information
 
 ## Status
 
@@ -77,17 +54,10 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-Name
+By [Name]
 
-1. VladyslavHornitskyi
-
-2. ervinMamutov
-
-3. PreethiTapati
-
-4. IrynaSobetska
-
-5. Rahwakinfe
+1.VladyslavHornitskyi 2.IrynaSobetska 3.ervinMamutov 4.Rahwakinfe
+5.PreethiTapati
 
 ## Instructions for use
 
@@ -144,3 +114,4 @@ locally.
   - "_Do not allow bypassing the above settings_"
 
 </details>
+```

@@ -12,8 +12,9 @@ create your own!
 - [ ] As a user I want to see the title of the page
   - there is a title at the top of the page
 - [ ] As a user I want to see the logo of the website
-  - There are two loges at the top of the pages
-- [ ] As a user I want to see the navbar to access different part of the website
+  - There are two logos at the top of the pages
+- [ ] As a user I want to see the navbar to access different parts of the
+      website
   - there is navigation bar under the title
 - [ ] As a user, I want to see the content in the website
   - about trees
