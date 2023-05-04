@@ -8,7 +8,7 @@ Simple website about trees
 
 - [ ] Boilerplate HTML file
 - [ ] Page title in the HTML file
-- [ ] empty CSS file
+- [ ] Empty CSS file
 - [ ] CSS file is linked to HTML
 
 ---
