@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-![smiling tree](./planning/Screenshot tree.jpg)
+![smiling tree](./planning/screenshot-tree.jpg)
 
 ## Technologies
 
