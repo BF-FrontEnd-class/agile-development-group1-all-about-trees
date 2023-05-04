@@ -6,6 +6,19 @@ body {
   list-style-type: square;
 }
 
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: monospace;
+}
+
 .top-divider {
   border-style: solid none none none;
 }
@@ -29,16 +42,6 @@ body {
 
 .bottom-divider {
   border-style: none none solid none;
-}
-
-/* stylelint-disable-next-line no-duplicate-selectors */
-.spaced-items {
-  display: flex;
-  flex-direction: row;
-  align-content: center;
-  justify-content: space-around;
-  padding-top: 2%;
-  padding-bottom: 2%;
 }
 
 .bouncy-img {

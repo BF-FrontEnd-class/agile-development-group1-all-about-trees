@@ -35,6 +35,7 @@
     "Yodiz",
     "Zepel"
   ],
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
