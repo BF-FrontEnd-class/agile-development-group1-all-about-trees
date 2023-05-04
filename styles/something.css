@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
+body {
+  background-color: white;
+}
+
+.interesting-things {
+  list-style-type: square;
+=========
 .aside-info {
   width: 40%;
   padding-left: 0.5rem;
@@ -10,14 +17,7 @@
 
 .aside-text {
   font-family: monospace;
-=======
-body {
-  background-color: white;
-}
-
-.interesting-things {
-  list-style-type: square;
->>>>>>> 22f2dff78086b5b7164165d598fa0367122d8ef4
+>>>>>>>>> Temporary merge branch 2
 }
 
 .centered-items {
