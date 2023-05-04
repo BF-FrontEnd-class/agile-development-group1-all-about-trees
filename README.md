@@ -25,16 +25,13 @@
 > A simple website about trees the objective is to learn project planning.
 
 ## Screenshots
-
-! (./planning\Screenshot tree.jpg)
+! (./planning\screenshot-tree.jpg)
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
@@ -66,7 +63,13 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+[Name]
+
+1. IrynaSobetska
+2. ervinMamutov
+3. Rahwakinfe
+4. PreethiTapati
+5. VladyslavHornitskyi
 
 ## Instructions for use
 
