@@ -31,7 +31,7 @@
 
 ### What parts of your plan did not work out?
 
-- the image that we suppose to put didntb turn out as we want it.
+- the image that we suppose to put did not turn out as we want it.
 
 ### Did you need to add things that weren't in your strategy?
 
@@ -39,4 +39,4 @@
 
 ### Or remove extra steps?
 
-- we didnt remove any extra steps for this project.
+- we did not remove any extra steps for this project.
