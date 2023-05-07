@@ -2,7 +2,7 @@
 
 ## Stop Doing
 
-- push with out making pull request.
+- stop making push with out making pull request.
 - stop pushing before doing the checks.
 
 ## Continue Doing
@@ -39,4 +39,4 @@
 
 ### Or remove extra steps?
 
--not this time.
+- we didnt remove any extra steps for this project.
