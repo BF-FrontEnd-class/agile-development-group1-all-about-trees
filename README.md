@@ -6,6 +6,8 @@
 
 - [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
@@ -17,7 +19,14 @@
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-![smiling tree](./planning/Screenshot tree.jpg)
+## General info
+
+> a simple website about trees , the objective is reverse engineering it using
+> agile methodology
+
+## Screenshots
+
+![smiling tree](./planning/screenshot-tree.jpg)
 
 ## Technologies
 
@@ -32,7 +41,8 @@
 
 ## Code Examples
 
-```<!-- Navigation links  -->
+```HTML
+<!-- Navigation links  -->
 <nav class="bottom-divider">
   <div class="spaced-items">
     <a href="#summary-info">intro</a>
@@ -52,17 +62,11 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-Name
-
-1. VladyslavHornitskyi
-
-2. ervinMamutov
-
-3. PreethiTapati
-
-4. IrynaSobetska
-
-5. Rahwakinfe
+- [ervinMamutov](https://github.com/ervinMamutov)
+- [IrynaSobetska](https://github.com/IrynaSobetska)
+- [PreethiTapati](https://github.com/PreethiTapati)
+- [Rahwakinfe](https://github.com/Rahwakinfe)
+- [VladyslavHornitskyi](https://github.com/VladyslavHornitskyi)
 
 ## Instructions for use
 
@@ -119,4 +123,3 @@ locally.
   - "_Do not allow bypassing the above settings_"
 
 </details>
-```
